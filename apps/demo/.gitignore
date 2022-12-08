@@ -2,3 +2,5 @@
 build
 public/build
 .env
+
+app/styles/*.css
